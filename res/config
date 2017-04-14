@@ -1,0 +1,5 @@
+[Path]
+DB=../res/db
+#DB=./db
+#DB=/tmp/GitHub.Upload.ByPython.Init.MasterDB.Create.201703200801/res/db/GitHub.Licenses.Database.Create.Auto.201703200807/db
+
